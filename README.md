@@ -31,6 +31,7 @@ Aplikasi GUI lengkap untuk mengelola tema dan konfigurasi GRUB dengan dukungan m
 │                                                               │
 └─────────────────────────────────────────────────────────────┘
 ```
+![Main Page](https://github.com/ferdiizzulhaq/GRUB-Theme-Manager/blob/main/screenshots/main-window.png)
 
 ## ✨ Fitur Utama
 
