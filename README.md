@@ -1,5 +1,13 @@
 # GRUB Theme Manager v5.0 🎨
 
+[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
+[![PyQt5](https://img.shields.io/badge/PyQt5-5.x-green.svg)](https://pypi.org/project/PyQt5/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Fedora%2043-red.svg)](https://getfedora.org/)
+[![GitHub stars](https://img.shields.io/github/stars/username/grub-theme-manager.svg)](https://github.com/username/grub-theme-manager/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/username/grub-theme-manager.svg)](https://github.com/username/grub-theme-manager/issues)
+[![GitHub forks](https://img.shields.io/github/forks/username/grub-theme-manager.svg)](https://github.com/username/grub-theme-manager/network)
+
 Aplikasi GUI lengkap untuk mengelola tema dan konfigurasi GRUB dengan dukungan multi-bahasa.
 
 ## 📸 Screenshot
