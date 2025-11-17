@@ -12,25 +12,6 @@ Aplikasi GUI lengkap untuk mengelola tema dan konfigurasi GRUB dengan dukungan m
 
 ## 📸 Screenshot
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  GRUB Theme Manager v5.0 - Fedora 43         [UEFI] 🌐 EN  │
-├─────────────────────────────────────────────────────────────┤
-│  🎨 Tema  │  ⚙️ Settings  │  💾 Backup  │  🔧 Advanced    │
-├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  Tema Aktif: Vimix                                           │
-│                                                               │
-│  Tema Terinstall:                                            │
-│  ┌─────────────────────────────────────────────────┐        │
-│  │ • Breeze                                         │        │
-│  │ • Grub2-themes                                   │        │
-│  │ • Vimix                                          │        │
-│  └─────────────────────────────────────────────────┘        │
-│  [✓ Terapkan] [🔍 Validasi] [👁 Preview] [🗑 Hapus]        │
-│                                                               │
-└─────────────────────────────────────────────────────────────┘
-```
 ![Main Page](https://github.com/ferdiizzulhaq/GRUB-Theme-Manager/blob/main/screenshots/main-window.png)
 
 ## ✨ Fitur Utama
