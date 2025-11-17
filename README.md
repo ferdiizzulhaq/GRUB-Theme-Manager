@@ -425,7 +425,3 @@ Jika ada masalah atau pertanyaan:
 ---
 
 **⭐ Jika aplikasi ini membantu, berikan star di GitHub!**
-
----
-
-Simpan sebagai **`README.md`** di folder yang sama dengan program! 📝✨
